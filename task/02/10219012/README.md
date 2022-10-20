@@ -71,9 +71,8 @@ plt.show()
 
 Hasilnya adalah
 
-```
-![Grafik]()
-```
+![Grafik](Grafik1.png)
+
 
 
 ## Cara perkuliahan
